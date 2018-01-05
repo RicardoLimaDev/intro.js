@@ -1,0 +1,13 @@
+.git
+.github
+BUILD
+docs
+example
+node_modules
+themes
+Makefile
+.jshintrs
+*.json
+yarn.lock
+*.md
+*.yml
