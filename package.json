@@ -24,7 +24,8 @@
     "*.js",
     "*.css",
     "license.md",
-    "themes/*"
+    "themes/*",
+    "minified/*"
   ],
   "license": "AGPL-3.0",
   "spm": {
